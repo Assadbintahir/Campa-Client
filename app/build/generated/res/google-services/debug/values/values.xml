@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">553983905294-knr90355mffhi5b0vv1tkbp3k37snvs8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://campa-a2e4a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">553983905294</string>
+    <string name="google_api_key" translatable="false">AIzaSyAU15_9AwmkTTPFLGv_W0akv7ezLsI7_D8</string>
+    <string name="google_app_id" translatable="false">1:553983905294:android:c175dd1c93e75846</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAU15_9AwmkTTPFLGv_W0akv7ezLsI7_D8</string>
+    <string name="google_storage_bucket" translatable="false">campa-a2e4a.appspot.com</string>
+    <string name="project_id" translatable="false">campa-a2e4a</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_campus_feed"
+            android:icon="@drawable/nav_campus_feed"
+            android:title="Campus Feed" />
+        <item
+            android:id="@+id/nav_my_events"
+            android:icon="@drawable/nav_mysocieties"
+            android:title="My Events" />
+        <item
+            android:id="@+id/nav_people"
+            android:icon="@drawable/nav_people"
+            android:title="People" />
+
+        <item
+            android:id="@+id/nav_societies"
+            android:title="My Societies"
+            android:icon="@drawable/nav_clubs"
+            />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Log Out"
+            android:icon="@drawable/ic_menu_logout"
+            />
+    </group>
+
+    <item android:title="In Development">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Indoor Maps" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="E-Wallet" />
+            <item
+                android:id="@+id/nav_create_data"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Create Data" />
+        </menu>
+    </item>
+
+</menu>

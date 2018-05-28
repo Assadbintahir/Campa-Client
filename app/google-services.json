@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553983905294",
+    "firebase_url": "https://campa-a2e4a.firebaseio.com",
+    "project_id": "campa-a2e4a",
+    "storage_bucket": "campa-a2e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553983905294:android:c175dd1c93e75846",
+        "android_client_info": {
+          "package_name": "com.campa.app.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553983905294-knr90355mffhi5b0vv1tkbp3k37snvs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU15_9AwmkTTPFLGv_W0akv7ezLsI7_D8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

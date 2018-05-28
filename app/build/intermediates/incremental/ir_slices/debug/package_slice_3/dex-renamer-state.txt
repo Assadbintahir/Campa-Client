@@ -1,0 +1,4 @@
+#Thu May 24 10:47:02 PKT 2018
+base.0=C\:\\Users\\Asad\\Desktop\\android-rest-client-template\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex
